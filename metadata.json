@@ -1,0 +1,8 @@
+{
+  "name": "DesigntightMedia",
+  "description": "DesigntightMedia helps Oklahoma City businesses get noticed with conversion-focused websites, social media marketing and practical AI automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
